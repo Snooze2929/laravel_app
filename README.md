@@ -7,8 +7,6 @@
 トップ画面　http://localhost/login
 phpmyadmin: http://localhost:8081
 
-# 課題開発環境のまとめ
-
 php7.4
 mysql8.0
 phpmyadmin
